@@ -50,7 +50,7 @@ Machine Learning, and practical software development.
 An AI-powered assistive application built with Python,
 FastAPI, Google Gemini, Sarvam AI, and JavaScript.
 
-[View repository]([YOUR_VISION_ASSISTANT_REPO_URL](https://github.com/KalyanSankar12/vision-assistant))
+[View repository](https://github.com/KalyanSankar12/vision-assistant)
 
 ## Experience
 
