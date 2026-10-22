@@ -1,10 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:153449,100:00C9B7&height=200&section=header&text=Kalyan%20Sankar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Integration&descSize=16&descAlignY=58" width="100%" alt="Kalyan Sankar banner"/>
+<div align="center">
 
-### Building useful applications with intelligent features.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:153449,100:00C9B7&height=200&section=header&text=Kalyan%20Sankar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineering%20%7C%20Python%20Development%20%7C%20Problem%20Solving&descSize=15&descAlignY=58" width="100%" alt="Kalyan Sankar GitHub banner"/>
 
+</div>
 <a href="https://github.com/KalyanSankar12">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -21,13 +22,14 @@
 
 ## About Me
 
-I'm a Computer Science and Engineering student at Aditya University, interested in full-stack development, Python, and AI-powered applications.
+I'm a Computer Science and Engineering student at Aditya University, passionate about Artificial Intelligence, Python development, problem-solving, and building intelligent applications that address real-world challenges.
 
-- Building practical software projects
-- Exploring AI integration and Generative AI
-- Developing backend APIs and database-driven applications
-- Improving problem-solving and software engineering skills
-- Learning by building, testing, and documenting real applications
+- Developing practical software applications and projects
+- Exploring Artificial Intelligence, Generative AI, and AI integration
+- Building backend APIs and database-driven applications
+- Strengthening Data Structures, Algorithms, and problem-solving skills
+- Exploring full-stack development and modern software technologies
+- Learning through hands-on projects, experimentation, and continuous improvement
 
 ## Tech Stack
 
@@ -79,10 +81,35 @@ An e-commerce project demonstrating product browsing and shopping workflows.
 
 [View Repository →](https://github.com/KalyanSankar12/E-commerce_Product)
 
-### 4. Coding Practice
-Programming exercises and problem-solving practice.
 
-[View Repository →](https://github.com/KalyanSankar12/ULEETCODE_PRO)
+
+## 🧩 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/KalyanSankar_10/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117" alt="LeetCode Profile"/>
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/kalyanb11cs208">
+  <img src="https://img.shields.io/badge/CodeChef-View%20Profile-8B7355?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" alt="CodeChef Profile"/>
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/24b11cs208">
+  <img src="https://img.shields.io/badge/HackerRank-View%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0D1117" alt="HackerRank Profile"/>
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/profile/kalyansankar">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46&labelColor=0D1117" alt="GeeksforGeeks Profile"/>
+</a>
+
+</div>
+
+<p align="center">
+  <i>Consistently practicing problem-solving, algorithms, and programming fundamentals.</i>
+</p>
+
+
 
 ---
 
@@ -116,13 +143,15 @@ Programming exercises and problem-solving practice.
 
 </div>
 
-## Contribution Activity
+
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KalyanSankar12&theme=react-dark&hide_border=true&area=true" width="100%" alt="GitHub activity graph"/>
+![GitHub Contribution Snake](https://raw.githubusercontent.com/KalyanSankar12/KalyanSankar12/output/github-contribution-grid-snake.svg)
 
 </div>
+
 
 ---
 
