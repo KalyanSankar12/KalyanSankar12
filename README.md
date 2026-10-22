@@ -1,11 +1,12 @@
 
 <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:153449,100:00C9B7&height=180&section=header&text=Kalyan%20Sankar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%E2%80%A2%20AI%20%E2%80%A2%20Python%20%E2%80%A2%20DSA&descSize=15&descAlignY=60" width="100%" alt="Kalyan Sankar banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,50:153449,100:00C9B7&height=200&section=header&text=Kalyan%20Sankar&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineering%20%7C%20Python%20Development%20%7C%20Problem%20Solving&descSize=15&descAlignY=58" width="100%" alt="Kalyan Sankar GitHub banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9B7&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer;Python+AI+Developer;Artificial+Intelligence+Enthusiast;C%2B%2B+%7C+Python+%7C+Java;Data+Structures+%26+Algorithms;Full-Stack+Development;Building+Intelligent+Solutions" alt="Animated skills and roles"/>
 
-</div>
+<br/>
+
 <a href="https://github.com/KalyanSankar12">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -20,16 +21,11 @@
 
 ---
 
-## About Me
 
-I'm a Computer Science and Engineering student at Aditya University, passionate about Artificial Intelligence, Python development, problem-solving, and building intelligent applications that address real-world challenges.
+## 👨‍💻 About Me
 
-- Developing practical software applications and projects
-- Exploring Artificial Intelligence, Generative AI, and AI integration
-- Building backend APIs and database-driven applications
-- Strengthening Data Structures, Algorithms, and problem-solving skills
-- Exploring full-stack development and modern software technologies
-- Learning through hands-on projects, experimentation, and continuous improvement
+I'm a B.Tech CSE student at Aditya University passionate about AI, Python development, and solving real-world problems through technology.
+I enjoy building intelligent applications, exploring Generative AI, and strengthening my skills in DSA, backend development, and software engineering.
 
 ## Tech Stack
 
